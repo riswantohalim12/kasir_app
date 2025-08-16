@@ -27,19 +27,19 @@
       XAMPP, `www` untuk WAMP).
     -   Buka browser Anda dan akses: `http://localhost/kasir-app/` (atau sesuai dengan konfigurasi
       server Anda).
-   15
-   16 ## Kredensial Login Default
-   17
-   18 Setelah mengimpor `database.sql`, Anda dapat login dengan kredensial berikut:
-   19
-   20 -   **Admin:**
-   21     -   Username: `admin`
-   22     -   Password: `123456`
-   23 -   **Kasir:**
-   24     -   Username: `kasir`
-   25     -   Password: `123456`
-   26
-   27 ## Kontribusi
-   28
-   29 Kontribusi, laporan bug, dan saran sangat diterima! Silakan buka *issue* atau *pull request* di
+   
+    ## Kredensial Login Default
+   
+    Setelah mengimpor `database.sql`, Anda dapat login dengan kredensial berikut:
+   
+    -   **Admin:**
+        -   Username: `admin`
+        -   Password: `123456`
+    -   **Kasir:**
+        -   Username: `kasir`
+        -   Password: `123456`
+   
+    ## Kontribusi
+   
+    Kontribusi, laporan bug, dan saran sangat diterima! Silakan buka *issue* atau *pull request* di
       *repository* ini.
